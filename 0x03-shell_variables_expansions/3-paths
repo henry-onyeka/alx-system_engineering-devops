@@ -1,2 +1,3 @@
 #!/bin/bash
-find $PATH -type d |wc -l
+echo $PATH | tr ":" "
+" | wc -l
