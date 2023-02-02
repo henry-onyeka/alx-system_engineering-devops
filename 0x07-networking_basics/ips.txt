@@ -1,0 +1,5 @@
+PING 10.51.65.70 (10.51.65.70) 56(84) bytes of data.
+
+--- 10.51.65.70 ping statistics ---
+1 packets transmitted, 0 received, 100% packet loss, time 0ms
+
